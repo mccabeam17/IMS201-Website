@@ -10,7 +10,7 @@ Elias Tzoc - November 2014
 	{
 		height: 100%;
 	}
-	
+
 	body
 	{
 		margin: 0px;
@@ -21,43 +21,43 @@ Elias Tzoc - November 2014
 		font-weight: 400;
 		color: #4E4D4D;
 	}
-	
-	
+
+
 	h1, h2, h3
 	{
 		margin: 0;
 		padding: 0;
 		color: #8A0808;
 	}
-	
+
 	h3 {
 		padding-top: 10px;
 		margin-bottom: 5px;
 		border-bottom: 1px dotted #ccc;
 	}
-	
+
 	h4 {
 		font-weight: 500;
 		margin-top: -3px;
 	}
-	
-	
+
+
 	p, ol, ul
 	{
 		margin-top: 0;
 	}
-	
+
 	ol, ul
 	{
 		padding: 0;
 		list-style: none;
 	}
-	
+
 	p
 	{
 		line-height: 180%;
 	}
-	
+
 
 
 
@@ -77,12 +77,12 @@ Elias Tzoc - November 2014
 		line-height: normal;
 		text-align: center;
 	}
-	
+
 #menu-chapters li
 	{
 		display: inline-block;
 	}
-	
+
 #menu-chapters a
 	{
 		display: block;
@@ -94,7 +94,7 @@ Elias Tzoc - November 2014
 		font-weight: 700;
 		color: #FFF;
 	}
-	
+
 
 	#menu-chapters a:hover
 	{
@@ -127,25 +127,25 @@ line-height: 25px;
 	#main-page p {
 		text-indent:2em;
 	}
-	
+
 	#main-page 	a
 	{
 		color: #8A0808;
 		text-decoration: none;
 		border-bottom: 1px dotted #ccc;
 	}
-	
+
 	#main-page a:hover
 	{
 		color: #000;
 		text-decoration: underline;
 		border-bottom: 0px;
 	}
-	
+
 	#ibooks a {
 	border-bottom: 0px;
 	}
-	
+
 /*********************************************************************************/
 /* Contact                                                                       */
 /*********************************************************************************/
@@ -155,7 +155,7 @@ line-height: 25px;
 		overflow: hidden;
 		padding: 2em 0em;
 	}
-	
+
 	#contact p
 	{
 		letter-spacing: 0.20em;
@@ -164,10 +164,18 @@ line-height: 25px;
 		font-size: 0.80em;
 		color: #6F6F6F;
 	}
-	
+
 	#contact a
 	{
 		text-decoration: none;
 		color: #8C8C8C;
 	}
 
+/*********************************************************************************/
+/* Garrett's                                                                     */
+/*********************************************************************************/
+
+ #caption_img{
+		font-style:italic;
+		font-size: .8em;
+	}
