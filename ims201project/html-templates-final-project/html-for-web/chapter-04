@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- HTML template for IMS 201 e-book chapter -->
+<!-- Elias Tzoc - November 2014 -->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Chapter 4: Integration of Play Technology</title>
+
+<!--  next two lines are only for web ebook -->
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="style-for-web.css" rel="stylesheet" type="text/css" media="all" />
+
+</head>
+
+<body>
+
+    <!--  div menu-chapters is only for web ebook -->
+	<div id="menu-chapters">
+		<ul>
+			<li><a href="index.html" title="">Home</a></li>
+			<li><a href="chapter-01.html" title="">Chapter 1</a></li>
+			<li><a href="chapter-02.html" title="">Chapter 2</a></li>
+			<li><a href="chapter-03.html" title="">Chapter 3</a></li>
+			<li><a href="chapter-04.html" title="">Chapter 4</a></li>
+
+		</ul>
+	</div>
+
+<!--  div main-page is only for web ebook -->
+<div id="main-page">
+
+<h1>Chapter 4: Integration of Play Technology</h1>
+<i>Angel McCabe</i>
+&nbsp;&nbsp;&nbsp;:::&nbsp;&nbsp;&nbsp;
+<a href="mailto:mccabeam@miamioh.edu?Subject=IMS201%20ePUB%20Project">mccabeam@miamioh.edu</a>
+
+
+<br /><br /><br />
+
+<div align="center" style="border: 1px solid #ccc; background: #f2f2f2;">
+<br />
+<h4>Optionally, this chapter is also available as audio!</h4>
+<audio controls>
+   <source src="chapter-04-audio.mp3" type="audio/mpeg">
+</audio>
+<br /><br />
+</div><!-- audio file -->
+
+<br /><br />
+
+<h3>ABSTRACT</h3>
+
+<p> It’s no secret that mobile technology affects every aspect of our lives. In the modern world almost everyone owns at least a cellphone that connects to the internet. Everyone uses these devices constantly and it’s not difficult to see why – the convenience of being able to do anything anywhere is too appealing to pass up. The most surprising development, however, is the effect this has had on the gaming industry in recent years. While games have been present on mobile phones since they first began to have screens, developers never imagined the impact of mobile technology as a platform until smartphones broke the scene. Since then, games have only become more and more available and varied as mobile technology has. It has shockingly become an important economic resource and created and entirely new market for gaming as a whole. What’s even more surprising is how the gaming itself impacts our lives, including but not limited to how we interact and even how we learn. As humans we inherently enjoy the concept and activity of play. Mobile gaming branches out to not only appeal to our desire to play, but to enable us to learn valuable skills in new ways. It affects our lives in unforeseen ways and can be greatly beneficial to our society as a whole.</p>
+
+
+<h3> INTRODUCTION </h3>
+<p> Gaming has long been considered a niche hobby, made for specific kinds of people with specific kinds of interests. Before mobile gaming popularized the ‘casual game’ most video games were for people willing to put in time and effort into buying consoles or the right kind of computer. The best-selling games also required a whole checklist of qualifications to be considered ‘good’, including up to date graphics, storytelling, user interface, mechanics, etc. Ten years ago it didn’t appear that mobile gaming would ever move beyond the simple games that came preloaded on one’s phone. It certainly wasn’t predicted to be a booming multi-billion dollar industry by 2014 (Feijoo). Now mobile technology as a gaming platform competes as one of the most popular in the gaming industry. The idea of what it is to be a gamer playing a video game is drastically changing and has begun to include almost anyone who owns a smartphone (ESA). The accessibility and convenience of the platform transforms time otherwise spent idling into semi-productive states of learning. Mobile games fill in the gaps of time we otherwise spend waiting, such as at the bus stop or the dentist. Most people are now gamers in some way. It touches our lives in ways never thought possible before the boom of mobile technology. Mobile gaming transformed into its own sub-industry, creating new opportunities for economics, development, learning, medicine, and social interaction. While gaming in general has in the past been lauded as a new way to teach and interact with the world, mobile gaming can finally realize that directive. While in the past not everyone was a gamer, most people today are at least mobile gamers. </p>
+
+<h3>TECH AND DEVELOPMENT</h3>
+<p> Mobile gaming has created an entirely new market for enterprising developers to find their start or even freelancers looking to make some money on the side (ESA). Smartphones strike the balance between the mobility and convenience of a cellphone and the computing power of a desktop computer. People literally hold small computers in their hands, even if they don’t think of them that way. The size does restrict some things, like memory, but emerging technologies contribute so much to gaming capabilities that developers have a plethora of tools to work from when designing their games (Soh). Every generation of smartphone brings something new to the table; e.g. the iPhone’s gyroscope which first enabled players to tilt their devices and actually affect gameplay. The newest advancements include updated graphics and processors to better emulate the power of full-sized computers (Forbes). While many may not consider games a particularly good motivator to better technology, the industry’s prevalence in the mobile market has produced some surprising results. </p>
+
+
+<div align="center">
+<img src="chapter-04-info.png" alt="HTML5 Icon" height="200" width="150"><br />
+<a href="chapter-04-info.png">View Image</a>.
+</div>
+
+<h3> SOCIAL </h3>
+
+<p> We already know that mobile technology has been altering social interactions since its inception. More surprising is the networking and leading capabilities it has been enhancing through gaming (Hjorth). The constant connection to the internet allows for a number of multiplayer features to be implemented in mobile games. This specific feature can cultivate the way we interact. Typically the social aspect of games requires a certain amount of cooperation. The right kind of game asks the player to specialize and to look for other players with certain other specialization. This results in a strategic honing of determining who to ask and how (Hjorth). The games don’t make suggestions about it, either. The player simply learns and adapts according to what the game requires. In general close personal relationships are not cultivated from this kind of interaction. It instead teaches players how to work with others to achieve a greater goal. Many of the strategies players use to achieve their goals in games they may then use at school or in the workplace. </p>
+
+<h3>LEARNING AND APPLICATION</h3>
+
+<p>Mobile gaming also provides possibilities within deliberate learning. Many apps are in development specifically designed for use in schools to aid children in learning (Druin). One of gaming’s primary appeals is its instant gratification and micro-reward system. By being notified of even our smallest achievements we feel the need to do more based on the simple act of being congratulated for it. Children especially need this constant reinforcement. The interactive learning of mobile connectivity allows for children to constantly view their progress and feel gratified to know where they are at all times (Druin). This also allows for a more personal learning experience, where children can work at their own pace without the pressures of being compared to the other kids constantly. Constant reminders of their progress and rewards for “reaching the next level” encourages advancing as quickly as possible without necessarily punishing them for moving at their own pace (Druin). A notable lack of negative reinforcement in gaming may be the key to its appeal in learning (Soh). While losing may mean GAME OVER, it isn’t necessarily the end of the game. Players are encouraged to start over and try until they succeed, even if the process is sometimes frustrating.</p>
+<p>This reward system extends to further worthwhile uses. Apps like HabitRPG have risen in popularity due to their gamification of what is essentially an organized list checker. The app requires players to input their daily tasks and the completion of each task rewards the player with experience points and virtual gold. The tasks are all created by the player themselves, and can be adjusted in difficulty according to their needs. Similar apps are now being used in the medical field. Patients, especially young children, sometimes have trouble remembering to take their medication. Apps designed to remind and reward them with minigames make taking the medicine fun and easier to remember (Health). This holds the possibility of being a life changing mechanic, especially for medicines where it is important to take it according to a specific timetable.</p>
+<p>&nbsp;</p>
+<p>Mobile technology has evolved so much in recent year that it has given mobile gaming the ability to expand and do almost anything. The rapid evolution of gaming has made it more versatile and adaptive to every aspect of daily life. It provides jobs and opportunities for economic development. It is a popular form of media consumed by smartphone users. It enhances learning and the completion of daily tasks. Everyone enjoys gaming, and everyone can be a gamer in many different ways. Mobile technology is already such an integral part of our daily lives. All we need to do is take it a few steps further. The use of games is varied and the future of their integration into society is bright.</p>
+
+<h3>REFERENCES </h3>
+<p>
+Druin, Allison. <em>Mobile Technology for Children: Designing for Interaction and Learning.</em> Amsterdam: Morgan Kaufmann Publishers/Elsevier, 2009. Internet resource. </p>
+
+<p>
+"The Entertainment Software Association."  <em>The Evolution of Mobile Games</em>. N.p., n.d. Web. 16 Oct. 2014. http://www.theesa.com/games-improving-what-matters/mobile-games.asp </p>
+
+<p>
+Feijoo, Claudio, et al. "Mobile Gaming: Industry Challenges And Policy Implications." <em>Telecommunications Policy</em> 36.3 (2012): 212-221. Business Source Complete. Web. 18 Oct. 2014.
+</p>
+
+<p>"Health Companies Use Mobile Gaming Apps That Reward Patients for Taking Their Meds on Time." <em>Digital Trends.</em> N.p., n.d. Web. 19 Oct. 2014. http://www.digitaltrends.com/mobile/health-companies-use-mobile-gaming-apps-reward-patients-taking-meds-time/ </p>
+
+<p>Hjorth, Larissa, and Ingrid Richardson. <em>Gaming in Social, Locative, and Mobile Media.</em> 2014. Print.</p>
+
+<p>Soh, Jason O. B., and Bernard C. Y. Tan. "Mobile Gaming." <em>Communications Of The ACM</em> 51.3 (2008): 35-39. Business Source Premier. Web. 18 Oct. 2014.</p>
+
+<p>"What Apple's IPhone 6 Means For Mobile Gaming." <em>Forbes.</em> Forbes Magazine, n.d. Web. 19 Oct. 2014. http://www.forbes.com/sites/erikkain/2014/09/09/what-the-iphone-6-means-for-mobile-gaming/</p>
+
+
+</div><!-- closing div for main-page is only for web ebook -->
+
+
+</body>
+</html>
